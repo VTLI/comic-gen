@@ -1,10 +1,9 @@
 # COMIC-GEN - Generate Comics with Tensorflow 
 
 **PREREQUISITES:**
+Python, Tensorflow, own set of comics
 
-How to start your own training / generation of comics:
-
-**YOU NEED YOUR OWN SET OF COMICS FOR THE TRAINING**
+**How to start your own training / generation of comics:**
 
 * **1 |** Download the **'code'** folder [here](https://github.com/ARGNZXT/comic-gen/releases/tag/v0.2-beta)
 

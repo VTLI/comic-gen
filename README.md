@@ -23,19 +23,19 @@ How to start your own training / generation of comics:
   > ("data_dir", **"E:/Comics"**, "path to datasets [e.g. $HOME/data]")
   
   
-  * **3.3  |** (Change the input_height and input_width according to your resized comics height/width)
+  * **3.3  |** Change the input_height and input_width according to your resized comics height/width
   
   > "(input_height", **400**, "The size of image to use (will be center cropped))
   
   > "(input_width", **263**, "The size of image to use (will be center cropped))
   
-   * **3.4  |** (Change the output_height and output_width according to wishes)
+   * **3.4  |** Change the output_height and output_width according to wishes
    
-  > ("output_height", **400**, "The size of the output images to produce [64]")
+  > ("output_height", **400**, "The size of the output images to produce")
   
-  > ("output_width", **263**, "The size of the output images to produce. If None, same value as output_height [None]")
+  > ("output_width", **263**, "The size of the output images to produce.)
                 
-   * **3.5  |** (Change the output directory, where the generated comics [samples] will be exported)  
+   * **3.5  |** Change the output directory, where the generated comics [samples] will be exported  
                 
   > ("out_dir", **"./out"**, "Root directory for outputs [e.g. $HOME/out]")
 

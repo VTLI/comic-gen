@@ -2,7 +2,7 @@
 
 **PREREQUISITES:**
 
-Python, Tensorflow, own set of comics
+Python, Tensorflow-Environment, own set of comics
 
 **How to start your own training / generation of comics:**
 

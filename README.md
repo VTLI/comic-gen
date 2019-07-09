@@ -13,5 +13,5 @@ How to start your own training / generation of comics:
 * **3 |** Open the **'main.py'** script and edit any parameters to your likings
 
   (Recommmended edits)
-  * **3.1  |** flags.DEFINE_integer("epoch", **25**, "Epoch to train [25]") / how often a set of comics will be read during training
+  * **3.1  |** ("epoch", **25**, "Epoch to train [25]") / how often a set of comics will be read during training
   * **3.1  |** source_path = **'YOUR\COMICS\SOURCE\PATH'**

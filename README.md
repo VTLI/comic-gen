@@ -17,8 +17,8 @@ How to start your own training / generation of comics:
   (Change the epoch - the amount of time the training will go through your dataset)
   * **3.1  |** ("epoch", 25, "Epoch to train [25]")** 
   
-  (Change the data_dir according to your comics that you resized before - 
+  (Change the data_dir according to your comics that you resized before)
   * **3.1  |** ("data_dir", "E:/Comics", "path to datasets [e.g. $HOME/data]")
   
-  (Change the input_height and input_width according to your 
+  (Change the input_height and input_width according to your resized comics height/width)
   * **3.1  |** source_path = **'YOUR\COMICS\SOURCE\PATH'**

@@ -2,7 +2,7 @@
 
 How to start your own training / generation of comics:
 
-** YOU NEED YOUR OWN SET OF COMICS FOR THE TRAINING **
+**YOU NEED YOUR OWN SET OF COMICS FOR THE TRAINING**
 
 * **1 |** Download the **'code'** folder [here](https://github.com/ARGNZXT/comic-gen/releases/tag/v0.2-beta)
 

@@ -2,7 +2,7 @@
 
 How to start your own training / generation of comics:
 
-* **1 |** Download the **'code'** folder [here](comic-gen/tree/master/Code)
+* **1 |** Download the **'code'** folder [here](comic-gen/Code)
 
 * **2 |** Open the **'resize_comics.py'** script and edit following things:
 

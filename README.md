@@ -14,11 +14,13 @@ How to start your own training / generation of comics:
 
 * **3 |** Open the **'main.py'** script and edit any parameters to your likings
 
-  (Change the epoch - the amount of time the training will go through your dataset)
-  * **3.1  |** ("epoch", 25, "Epoch to train [25]")** 
+  * **3.1  |** (Change the epoch - the amount of time the training will go through your dataset)
   
-  (Change the data_dir according to your comics that you resized before)
-  * **3.2  |** ("data_dir", "E:/Comics", "path to datasets [e.g. $HOME/data]")
+  > ("epoch", 25, "Epoch to train [25]")** 
+  
+  * **3.2  |** (Change the data_dir according to your comics that you resized before)
+  
+  > ("data_dir", "E:/Comics", "path to datasets [e.g. $HOME/data]")
   
   
   * **3.3  |** (Change the input_height and input_width according to your resized comics height/width)

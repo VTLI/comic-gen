@@ -2,7 +2,7 @@
 
 **PREREQUISITES:**
 
-Python (preferably 2.7 - might have to install custom modules, Tensorflow-Environment, own set of comics
+Python (preferably 2.7 - might have to install extra modules, Tensorflow-Environment, own set of comics
 
 **How to start your own training / generation of comics:**
 

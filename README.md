@@ -44,5 +44,4 @@ Python, Tensorflow, own set of comics
   > ("out_dir", **"./out"**, "Root directory for outputs [e.g. $HOME/out]")
 
 
-* **4 |** Download the **'code'** folder [here](https://github.com/ARGNZXT/comic-gen/releases/tag/v0.2-beta)
-
+* **4 |** Access your TensorFlow virtual environment

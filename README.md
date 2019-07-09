@@ -1,5 +1,7 @@
 # COMIC-GEN - Generate Comics with Tensorflow 
 
+**PREREQUISITES:**
+
 How to start your own training / generation of comics:
 
 **YOU NEED YOUR OWN SET OF COMICS FOR THE TRAINING**
@@ -40,4 +42,7 @@ How to start your own training / generation of comics:
    * **3.5  |** Change the output directory, where the generated comics [samples] will be exported  
                 
   > ("out_dir", **"./out"**, "Root directory for outputs [e.g. $HOME/out]")
+
+
+* **4 |** Download the **'code'** folder [here](https://github.com/ARGNZXT/comic-gen/releases/tag/v0.2-beta)
 

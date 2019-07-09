@@ -1,1 +1,1 @@
-# comic-gen
+# comic-gen - Generate Comics with Tensorflow 

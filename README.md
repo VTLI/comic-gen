@@ -1,6 +1,7 @@
 # COMIC-GEN - Generate Comics with Tensorflow 
 
 **PREREQUISITES:**
+
 Python, Tensorflow, own set of comics
 
 **How to start your own training / generation of comics:**

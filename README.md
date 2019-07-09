@@ -16,7 +16,7 @@ Python (preferably 2.7 - might have to install extra modules, Tensorflow-Environ
   * **2.2 |** resize_save_location = **'YOUR:\\SAVE\\LOCATION\\FOR\\RESIZED\\OUTPUT'**
   * **2.3 |** target_image_height = **250** (or whatever you prefer, the bigger the longer the training takes)
 
-* **3 |** Start the resize_comics script to generate a new set of resized comics
+* **3 |** Start the **resize_comics** script to generate a new set of resized comics
 
 * **4 |** Open the **'main.py'** script and edit any parameters to your **likings**
 

@@ -14,7 +14,7 @@ How to start your own training / generation of comics:
 
 * **3 |** Open the **'main.py'** script and edit any parameters to your likings
 
-  (To change how often a set of comics will be read during training, change the epoch)
+  (Change the epoch - the amount of time the training will go through your dataset)
   * **3.1  |** ("epoch", 25, "Epoch to train [25]")** 
   
   (Change the data_dir according to your comics that you resized before - 

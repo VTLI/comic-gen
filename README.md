@@ -42,6 +42,8 @@ Python, Tensorflow, own set of comics
    * **3.5  |** Change the output directory, where the generated comics [samples] will be exported  
                 
   > ("out_dir", **"./out"**, "Root directory for outputs [e.g. $HOME/out]")
+  
+  * **3.6  |** Feel free to play around with other parameters as well
 
 
 * **4 |** Access your TensorFlow virtual environment

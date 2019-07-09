@@ -21,7 +21,7 @@ How to start your own training / generation of comics:
   * **3.2  |** ("data_dir", "E:/Comics", "path to datasets [e.g. $HOME/data]")
   
   (Change the input_height and input_width according to your resized comics height/width)
-  * **3.3  |** "(input_height", 400, "The size of image to use (will be center cropped))
+  * **3.3  |**  >"(input_height", 400, "The size of image to use (will be center cropped))
   
-                "(input_width", 263, "The size of image to use (will be center cropped))
+                >"(input_width", 263, "The size of image to use (will be center cropped))
 

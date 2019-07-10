@@ -51,3 +51,6 @@ Python (preferably 2.7 - might have to install extra modules, Tensorflow-Environ
 * **5 |** Access your TensorFlow virtual environment
 
    * **5.1  |** Start the **main.py** script in your TensorFlow virtual environment
+   
+   * **5.2  |** Wait...
+

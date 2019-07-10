@@ -41,11 +41,15 @@ Python (preferably 2.7 - might have to install extra modules, Tensorflow-Environ
   
   > ("output_width", **263**, "The size of the output images to produce.)
                 
-   * **4.5  |** Change the output directory, where the generated comics [samples] will be exported  
+   * **4.5  |** Change the output name, where the model and evaluation samples will be stored  
+                
+  > ("out_name", **"train_run_1"**, "Name for the output train folder")
+                
+   * **4.6  |** Optional: Change the output directory, where the generated comics [samples] will be exported  
                 
   > ("out_dir", **"./out"**, "Root directory for outputs [e.g. $HOME/out]")
   
-  * **4.6  |** Feel free to play around with other parameters as well
+  * **4.7  |** Feel free to play around with other parameters as well
 
 
 * **5 |** Access your TensorFlow virtual environment
